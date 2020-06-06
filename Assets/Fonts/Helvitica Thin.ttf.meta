@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0798685664c8ec74b992c11d5a74e37b
+timeCreated: 1508255785
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 500
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Helvetica 35 Thin
+  fontNames:
+  - Helvetica 35 Thin
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
